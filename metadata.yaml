@@ -1,0 +1,47 @@
+_repo: Sormus-b-Kalifornialainen-kertomus_72201
+_version: 0.0.1
+alternative_title: Found at Blazing Star. Finnish
+contributor:
+  translator:
+    agent_name: Soini, Lauri
+    aliases:
+    - Ahava, Juho
+    - Soininen, L.
+    - Sauramo, Lauri
+    birthdate: 1875
+    deathdate: 1919
+    gutenberg_agent_id: '42573'
+    url: http://www.gutenberg.org/2009/agents/42573
+    wikipedia:
+    - https://fi.wikipedia.org/wiki/Lauri_Soini
+    - https://en.wikipedia.org/wiki/Lauri_Soininen
+creator:
+  author:
+    agent_name: Harte, Bret
+    alias: Harte, Francis Bret
+    birthdate: 1836
+    deathdate: 1902
+    gutenberg_agent_id: '593'
+    url: http://www.gutenberg.org/2009/agents/593
+    wikipedia: https://en.wikipedia.org/wiki/Bret_Harte
+description: ''
+gutenberg_issued: '2023-11-22'
+identifiers:
+  gutenberg: '72201'
+language: fi
+pgterms:marc905: 20231105055820harte
+pgterms:marc906: '1909'
+pgterms:marc907: FI
+production_note: Tapio Riikonen
+publication_note: '  $aHämeenlinna :$bArvi A. Karisto Oy, $c1909.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Western stories'
+- !lcsh 'California -- Social life and customs -- 19th century -- Fiction'
+- !lcsh 'American fiction -- Translations into Finnish'
+- !lcc 'PS'
+- GITenberg
+title: 'Sormus : $b Kalifornialainen kertomus'
+url: http://www.gutenberg.org/ebooks/72201
