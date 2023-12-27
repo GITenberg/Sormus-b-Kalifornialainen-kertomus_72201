@@ -15,6 +15,9 @@ contributor:
     wikipedia:
     - https://fi.wikipedia.org/wiki/Lauri_Soini
     - https://en.wikipedia.org/wiki/Lauri_Soininen
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Harte, Bret
@@ -25,6 +28,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/593
     wikipedia: https://en.wikipedia.org/wiki/Bret_Harte
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72201#Sormus-b-Kalifornialainen-kertomus
 gutenberg_issued: '2023-11-22'
 identifiers:
   gutenberg: '72201'
